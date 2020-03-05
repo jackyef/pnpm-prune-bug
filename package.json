@@ -1,0 +1,14 @@
+{
+  "name": "pnpm-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.0"
+  }
+}
