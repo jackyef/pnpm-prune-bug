@@ -26,7 +26,7 @@
     rm -rf ./packages/*/node_modules
     ```
 
-6. Clean up node_modules manually
+6. Install without devDeps
     ```
     NODE_ENV=production pnpm recursive install
     ```
